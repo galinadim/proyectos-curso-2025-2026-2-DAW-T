@@ -18,7 +18,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 ## Índice a los proyectos de cada alumno
 
- **01: Intellcar ** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
+ **01: Intellcar** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
     - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject)
     
   **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
@@ -98,6 +98,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
