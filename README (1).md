@@ -21,8 +21,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **01: Intellcar ** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
     - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject)
     
-  **02: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
-    - [Repositorio del proyecto]()
+  **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
+    - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
     
   **03: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
     - [Repositorio del proyecto]()
@@ -33,8 +33,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
   **05: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
     - [Repositorio del proyecto]()
     
-  **06: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
-    - [Repositorio del proyecto]()
+  **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
+    - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
     
   **07: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
     - [Repositorio del proyecto]()
@@ -98,6 +98,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
