@@ -49,8 +49,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto]()
     
 
-  
-  
+   
 
 ## ⏰ Cuadrante horario de las exposiciones
 
@@ -59,21 +58,20 @@ suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
 * Anteproyecto: **30 de abril de 2026**
+* Revisión: **4 de mayo de 2026**
 * Entrega de proyecto: **15 de mayo de 2026**
 * Exposiciones: **1 de junio de 2026**
 
-#### :calendar: miércoles 17 de diciembre de 2025
+#### :calendar: lunes 1 de junio de 2026
 
-- [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **28 de enero de 2026**
-* Revisión (checkpoint): **16 de febrero de 2026**
-* Segunda Revisión (2º checkpoint): **02 de marzo de 2026**
-* Entrega de proyecto: **13 de marzo de 2026**
-* Exposiciones: **17 de marzo de 2026**
+* Anteproyecto: **15 de mayo de 2026**
+* Revisión: **18 de mayo de 2026**
+* Entrega de proyecto: **29 de mayo de 2026**
+* Exposiciones: **22 de junio de 2026**
 
-#### :calendar: martes 17 de marzo de 2026
+#### :calendar: lunes 22 de junio de 2026
 
 - [ ] 09:00h **Proyecto xx** - Alumno xx
 - [ ] 09:20h **Proyecto xx** - Alumno xx
@@ -96,6 +94,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
