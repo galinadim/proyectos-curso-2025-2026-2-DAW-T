@@ -40,7 +40,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto]()
     
   **08: MAR ADENTRO** -  Grupo 8: Manuel Robles Guerrero | José Antonio Lorente Moya
-    - [Repositorio del proyecto[]()](https://github.com/ManuelGR-clase/MAR-ADENTRO)
+    - [Repositorio del proyecto](https://github.com/ManuelGR-clase/MAR-ADENTRO)
     
   **09: Sistema de Gestión de Reservas - Autos Costa Sol** -  Christina Fernández Fernábdez 
     - [Repositorio del proyecto]()
@@ -98,6 +98,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
