@@ -58,11 +58,9 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
-* Anteproyecto: **27 de octubre de 2025**
-* Revisión (checkpoint): **10 de noviembre de 2025**
-* Segunda Revisión (2º checkpoint): **24 de noviembre de 2025**
-* Entrega de proyecto: **15 de diciembre de 2025**
-* Exposiciones: **17 de diciembre de 2025**
+* Anteproyecto: **30 de abril de 2026**
+* Entrega de proyecto: **15 de mayo de 2026**
+* Exposiciones: **1 de junio de 2026**
 
 #### :calendar: miércoles 17 de diciembre de 2025
 
@@ -98,6 +96,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
