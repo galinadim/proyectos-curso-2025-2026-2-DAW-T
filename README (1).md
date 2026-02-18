@@ -63,7 +63,16 @@ suficiente a su presentación.
 * Exposiciones: **1 de junio de 2026**
 
 #### :calendar: lunes 1 de junio de 2026
-
+- [ ] 09:00h **Proyecto xx** - Alumno xx
+- [ ] 09:20h **Proyecto xx** - Alumno xx
+- [ ] 09:40h **Proyecto xx** - Alumno xx
+- [ ] 10:00h **Proyecto xx** - Alumno xx
+- [ ] 10:20h **Proyecto xx** - Alumno xx
+- [ ] 10:40h **Proyecto xx** - Alumno xx
+- [ ] 11:00h **Proyecto xx** - Alumno xx
+- [ ] 11:20h **Proyecto xx** - Alumno xx
+- [ ] 11:40h **Proyecto xx** - Alumno xx
+- [ ] 12:00h **Proyecto xx** - Alumno xx
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
 * Anteproyecto: **15 de mayo de 2026**
@@ -94,6 +103,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
