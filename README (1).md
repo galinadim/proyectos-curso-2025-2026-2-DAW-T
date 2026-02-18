@@ -18,8 +18,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 ## Índice a los proyectos de cada alumno
 
-* **01: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
-    - [Repositorio del proyecto](https://github.com/Juancarlostfg/gestion_reservas)
+* **01: Intellcar ** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
+    - [Repositorio del proyecto]([https://github.com/](https://github.com/jvilpoz1105/IntellCar_IntermodularProject)
     
   **02: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
     - [Repositorio del proyecto]()
@@ -98,5 +98,6 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
