@@ -27,7 +27,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
   **03: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
     - [Repositorio del proyecto]()
     
-  **04: TechUniverse** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
+  **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
     - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
     
   **05: Nombre del proyecto** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
@@ -103,6 +103,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
