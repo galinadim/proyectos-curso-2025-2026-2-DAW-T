@@ -10,7 +10,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
-* [David Hormigo]()
+* [David Hormigo](https://github.com/DavidHormigoRamirez/)
 * [Federico Huércano]()
 * [Javier Úbeda]()
 * [Fernando Toro](https://github.com/fpftoro)
@@ -103,6 +103,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
