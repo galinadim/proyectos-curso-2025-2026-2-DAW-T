@@ -30,7 +30,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
   **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
     - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
     
-  **05: Nombre del proyecto** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
+  **05: Burguer Marina** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
     - [Repositorio del proyecto](https://github.com/josecoortes/Proyecto-final.git)
     
   **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
@@ -103,6 +103,7 @@ suficiente a su presentación.
 ---
 
 ## :school: Lugar de las exposiciones
+
 
 
 
