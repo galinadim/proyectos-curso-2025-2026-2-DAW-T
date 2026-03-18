@@ -24,8 +24,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
   **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
     - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
     
-  **03: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
-    - [Repositorio del proyecto]()
+  **03: Sushi Miyu** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
+    - [Repositorio del proyecto](https://github.com/Adrianasd22/Sushi)
     
   **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
     - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
