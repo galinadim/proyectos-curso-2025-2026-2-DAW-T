@@ -5,7 +5,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Moode del módulo del Proyecto Intermodular]
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Moode del módulo del Proyecto Intermodular](https://educacionadistancia.juntadeandalucia.es/centros/malaga/course/view.php?id=5998)
 ## Profesores
 
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
