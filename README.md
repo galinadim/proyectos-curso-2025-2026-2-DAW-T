@@ -15,6 +15,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [Javier Úbeda]()
 * [Fernando Toro](https://github.com/fpftoro)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
+* [José Emilio Sánchez García]()
 
 ## Índice a los proyectos de cada alumno
 
