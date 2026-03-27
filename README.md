@@ -11,7 +11,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 * [David Hormigo](https://github.com/DavidHormigoRamirez/)
-* [Federico Huércano]()
+* [Federico Huércano](https://github.com/fhuerui697/)
 * [Javier Úbeda]()
 * [Fernando Toro](https://github.com/fpftoro)
 * [Galina Georgieva Dimitrova](https://github.com/galinadim)
