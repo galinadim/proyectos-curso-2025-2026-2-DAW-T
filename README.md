@@ -61,19 +61,19 @@ suficiente a su presentación.
 * Anteproyecto: **30 de abril de 2026**
 * Revisión: **4 de mayo de 2026**
 * Entrega de proyecto: **15 de mayo de 2026**
-* Exposiciones: **1 de junio de 2026**
+* Exposiciones: **3 de junio de 2026**
 
 #### :calendar: lunes 1 de junio de 2026
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:40h **Proyecto xx** - Alumno xx
-- [ ] 10:00h **Proyecto xx** - Alumno xx
-- [ ] 10:20h **Proyecto xx** - Alumno xx
-- [ ] 10:40h **Proyecto xx** - Alumno xx
-- [ ] 11:00h **Proyecto xx** - Alumno xx
-- [ ] 11:20h **Proyecto xx** - Alumno xx
-- [ ] 11:40h **Proyecto xx** - Alumno xx
-- [ ] 12:00h **Proyecto xx** - Alumno xx
+- [ ] 15:15h **Proyecto xx** - Alumno xx
+- [ ] 15:30h **Proyecto xx** - Alumno xx
+- [ ] 15:45h **Proyecto xx** - Alumno xx
+- [ ] 16:00h **Proyecto xx** - Alumno xx
+- [ ] 16:15h **Proyecto xx** - Alumno xx
+- [ ] 16:30h **Proyecto xx** - Alumno xx
+- [ ] 16:45h **Proyecto xx** - Alumno xx
+- [ ] 17:00h **Proyecto xx** - Alumno xx
+- [ ] 17:15h **Proyecto xx** - Alumno xx
+- [ ] 17:30h **Proyecto xx** - Alumno xx
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
 * Anteproyecto: **15 de mayo de 2026**
