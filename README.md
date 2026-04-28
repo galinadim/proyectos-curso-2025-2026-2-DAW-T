@@ -20,35 +20,37 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 ## Índice a los proyectos de cada alumno
 
  **01: Intellcar** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
-    - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject)  [Checkpoint](https://)
+    - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject) 
+    [Checkpoint](https://)
     
   **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
     - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
+     [Checkpoint](https://)
     
   **03: Sushi Miyu** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
     - [Repositorio del proyecto](https://github.com/Adrianasd22/Sushi)
-    
+     [Checkpoint](https://)
   **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
     - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
-    
+     [Checkpoint](https://)
   **05: Burguer Marina** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
     - [Repositorio del proyecto](https://github.com/josecoortes/Proyecto-final.git)
-    
+     [Checkpoint](https://)
   **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
     - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
-    
+     [Checkpoint](https://)
   **07: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
     - [Repositorio del proyecto]()
-    
+     [Checkpoint](https://)
   **08: MAR ADENTRO** -  Grupo 8: Manuel Robles Guerrero | José Antonio Lorente Moya
     - [Repositorio del proyecto](https://github.com/ManuelGR-clase/MAR-ADENTRO)
-    
+     [Checkpoint](https://)
   **09: Viaja Más** -  Cristina Fernández Fernández 
     - [Repositorio del proyecto](https://github.com/CristinaFdezFdez/Proyecto-final)
-    
+     [Checkpoint](https://)
   **10: Wiki Ark** - Iván Calatayud Merino
     - [Repositorio del proyecto](https://github.com/Icame05/WikiArk)
-    
+     [Checkpoint](https://)
 
    
 
