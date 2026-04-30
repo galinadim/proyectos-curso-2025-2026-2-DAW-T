@@ -45,7 +45,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
      [Checkpoint](https://)
      
-  **07: Sistema de Gestión de Reservas - Autos Costa Sol** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
+  **07: ** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
     - [Repositorio del proyecto]()
      [Checkpoint](https://)
      
@@ -70,21 +70,21 @@ suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
 * Anteproyecto: **30 de abril de 2026**
-* Revisión: **4 de mayo de 2026**
+* Revisión/checkpoints: **5 de mayo de 2026**
 * Entrega de proyecto: **15 de mayo de 2026**
 * Exposiciones: **3 de junio de 2026**
 
 #### :calendar: lunes 3 de junio de 2026
-- [ ] 15:15h **Proyecto xx** - Alumno xx
-- [ ] 15:30h **Proyecto xx** - Alumno xx
-- [ ] 15:45h **Proyecto xx** - Alumno xx
-- [ ] 16:00h **Proyecto xx** - Alumno xx
-- [ ] 16:15h **Proyecto xx** - Alumno xx
-- [ ] 16:30h **Proyecto xx** - Alumno xx
-- [ ] 16:45h **Proyecto xx** - Alumno xx
-- [ ] 17:00h **Proyecto xx** - Alumno xx
-- [ ] 17:15h **Proyecto xx** - Alumno xx
-- [ ] 17:30h **Proyecto xx** - Alumno xx
+- [ ] 15:15h **J-J-PROYECT** - Jaime Gavilán | Jesús Ríos
+- [ ] 15:30h **Intellcar** - José Manuel Villanúa Pozo | Juan Benítez Muñoz
+- [ ] 15:45h **BOOKSHELF** - José María Caracuel Menacho | Jesús Moreno Bernal 
+- [ ] 16:00h **Sushi Miyu** -  Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
+- [ ] 16:15h **Tech Universe** - Iván Ríos Raya | Alexander Sánchez Jara  
+- [ ] 16:30h **Burguer Marina** - José Cortés Martín | Nicolás Jiménez Gutiérrez
+- [ ] 16:45h **MAR ADENTRO** - Manuel Robles Guerrero | José Antonio Lorente Moya
+- [ ] 17:00h **Viaja Más** - Cristina Fernández Fernández 
+- [ ] 17:15h **Wiki Ark** - Iván Calatayud Merino
+- [ ] 17:30h **Proyecto xx** - Juan Carlos Alarcón Pedraza | María Ledesma Zotano
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
 * Anteproyecto: **15 de mayo de 2026**
