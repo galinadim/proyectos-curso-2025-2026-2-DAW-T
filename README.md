@@ -12,7 +12,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 * [David Hormigo](https://github.com/DavidHormigoRamirez/)
 * [Federico Huércano](https://github.com/fhuerui697/)
-* [Javier Úbeda]()
+* [Javier Úbeda](https://github.com/jubevaz228)
 * [Fernando Toro](https://github.com/fpftoro)
 * [Galina Dimitrova](https://github.com/galinadim)
 * [José Emilio Sánchez García](https://github.com/Emilio-SG-ing)
@@ -74,7 +74,7 @@ suficiente a su presentación.
 * Entrega de proyecto: **15 de mayo de 2026**
 * Exposiciones: **3 de junio de 2026**
 
-#### :calendar: lunes 3 de junio de 2026
+#### :calendar: miércoles 3 de junio de 2026
 - [ ] 15:15h **J-J-PROYECT** - Jaime Gavilán | Jesús Ríos
 - [ ] 15:30h **Intellcar** - José Manuel Villanúa Pozo | Juan Benítez Muñoz
 - [ ] 15:45h **BOOKSHELF** - José María Caracuel Menacho | Jesús Moreno Bernal 
