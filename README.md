@@ -43,7 +43,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
      
   **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
     - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
-     [Checkpoint](https://)
+     [Checkpoint](https://drive.google.com/file/d/1Cmuvr-U9wqQ4k_TpL-vLSem5fzVOd2qq/view)
      
   **07: ** -  Grupo 7: Juan Carlos Alarcón Pedraza | María Ledesma Zotano
     - [Repositorio del proyecto]()
