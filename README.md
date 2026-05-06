@@ -55,7 +55,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
      
   **09: Viaja Más** -  Cristina Fernández Fernández 
     - [Repositorio del proyecto](https://github.com/CristinaFdezFdez/Proyecto-final)
-     [Checkpoint]([https://](https://www.youtube.com/watch?v=tngbXSjh5iU) 
+     [Checkpoint](https://www.youtube.com/watch?v=tngbXSjh5iU) 
      
   **10: Wiki Ark** - Iván Calatayud Merino
     - [Repositorio del proyecto](https://github.com/Icame05/WikiArk)
