@@ -73,7 +73,7 @@ suficiente a su presentación.
 * Entrega de proyecto: **15 de mayo de 2026**
 * Exposiciones: **3 de junio de 2026**
 
-#### :calendar: miércoles 3 de junio de 2026
+#### :calendar: miércoles 3 de junio de 2026 | Salón de Actos 
 - [ ] 15:15h **J-J-PROYECT** - Jaime Gavilán | Jesús Ríos
 - [ ] 15:30h **Intellcar** - José Manuel Villanúa Pozo | Juan Benítez Muñoz
 - [ ] 15:45h **BOOKSHELF** - José María Caracuel Menacho | Jesús Moreno Bernal 
