@@ -35,11 +35,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
      
   **04: Tech Universe** -  Grupo 4: Iván Ríos Raya | Alexander Sánchez Jara  
     - [Repositorio del proyecto](https://github.com/Ivanrr462/Tech-Universe)
-     [Checkpoint](https://drive.google.com/file/d/1ALMScHhkEyg9Yz9KpZ_TAwLdgAdaIH_u/view))
+     [Checkpoint](https://drive.google.com/file/d/1ALMScHhkEyg9Yz9KpZ_TAwLdgAdaIH_u/view)
      
   **05: Burguer Marina** -  Grupo 5: José Cortés Martín | Nicolás Jiménez Gutiérrez
     - [Repositorio del proyecto](https://github.com/josecoortes/Proyecto-final.git)
-     [Checkpoint] (https://www.youtube.com/watch?v=Cvq_8BQGURQ)     
+     [Checkpoint](https://www.youtube.com/watch?v=Cvq_8BQGURQ)     
      
   **06: J-J-PROYECT** -  Grupo 6:  Jaime Gavilán Torrero | Jesús Ríos López
     - [Repositorio del proyecto](https://github.com/JaimeDVP562/J-J-PROYECTO-INTERMODULAR.git)
