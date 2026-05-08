@@ -26,8 +26,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     
   **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
     - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
-     [Checkpoint](https://)
-     
+     [Checkpoint](https://www.youtube.com/watch?v=NuBrAkYFazA)     
     
   **03: Sushi Miyu** -  Grupo 3: Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
     - [Repositorio del proyecto](https://github.com/Adrianasd22/Sushi)
