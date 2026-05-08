@@ -21,7 +21,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
  **01: Intellcar** -  Grupo 1: José Manuel Villanúa Pozo | Juan Benítez Muñoz
     - [Repositorio del proyecto](https://github.com/jvilpoz1105/IntellCar_IntermodularProject) 
-    [Checkpoint](https://)
+    [Checkpoint](https://drive.google.com/file/d/110sbTQCgGIeR2Y1yH3Kl7hPo_sR_v0Jj/view)
 
     
   **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
