@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     [Checkpoint](https://drive.google.com/file/d/110sbTQCgGIeR2Y1yH3Kl7hPo_sR_v0Jj/view)
 
     
-  **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal   
+  **02: BOOKSHELF** -  Grupo 2: José María Caracuel Menacho | Jesús Moreno Bernal | Francisco Manuel Toledo Pérez
     - [Repositorio del proyecto](https://github.com/ftoledo-26/bookshell)
      [Checkpoint](https://www.youtube.com/watch?v=NuBrAkYFazA)     
     
@@ -74,8 +74,8 @@ suficiente a su presentación.
 
 #### :calendar: miércoles 3 de junio de 2026 | Salón de Actos 
 - [ ] 15:15h **J-J-PROYECT** - Jaime Gavilán | Jesús Ríos
-- [ ] 15:30h **Intellcar** - José Manuel Villanúa Pozo | Juan Benítez Muñoz
-- [ ] 15:45h **BOOKSHELF** - José María Caracuel Menacho | Jesús Moreno Bernal 
+- [ ] 15:30h **Intellcar** - José Manuel Villanúa Pozo | Juan Benítez Muñoz 
+- [ ] 15:45h **BOOKSHELF** - José María Caracuel Menacho | Jesús Moreno Bernal | Francisco Manuel Toledo Pérez
 - [ ] 16:00h **Sushi Miyu** -  Ainhoa Quintero Gonzáles | Adriana Salazar Daza | Joaquín Ruiz Jiménez
 - [ ] 16:15h **Tech Universe** - Iván Ríos Raya | Alexander Sánchez Jara  
 - [ ] 16:30h **Burguer Marina** - José Cortés Martín | Nicolás Jiménez Gutiérrez
