@@ -69,7 +69,7 @@ suficiente a su presentación.
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
 * Anteproyecto: **30 de abril de 2026**
 * Revisión/checkpoints: **5 de mayo de 2026**
-* Entrega de proyecto: **15 de mayo de 2026**
+* Entrega de proyecto: **17 de mayo de 2026**
 * Exposiciones: **3 de junio de 2026**
 
 #### :calendar: miércoles 3 de junio de 2026 | Salón de Actos 
