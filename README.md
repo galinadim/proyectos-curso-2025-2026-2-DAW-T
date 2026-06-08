@@ -85,16 +85,14 @@ suficiente a su presentación.
 - [ ] 17:30h **Proyecto xx** - Juan Carlos Alarcón Pedraza | María Ledesma Zotano
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **15 de mayo de 2026**
-* Revisión: **18 de mayo de 2026**
-* Entrega de proyecto: **29 de mayo de 2026**
-* Exposiciones: **22 de junio de 2026**
+
+* Entrega de proyecto: **11 de junio de 2026**
+* Exposiciones: ** de junio de 2026**
 
 #### :calendar: lunes 22 de junio de 2026
 
-- [ ] 09:00h **Proyecto xx** - Alumno xx
-- [ ] 09:20h **Proyecto xx** - Alumno xx
-- [ ] 09:50h **Proyecto xx** - Alumno xx
+- [ ] 09:00h **Proyecto xx** -  María Ledesma Zotano
+- [ ] 09:20h **MAR ADENTRO** - Manuel Robles Guerrero | José Antonio Lorente Moya
 
 ---
 ## Guía para la presentación - apartados de la presentación
