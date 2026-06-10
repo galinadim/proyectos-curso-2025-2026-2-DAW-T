@@ -91,7 +91,7 @@ suficiente a su presentación.
 
 #### :calendar: 22 de junio de 2026
 
-- [ ] 11:00h **Proyecto xx** -  María Ledesma Zotano
+- [ ] 11:00h **Proyecto xx** -  María Ledesma Zotano | Juan Carlos Alarcón Pedraza
 - [ ] 11:20h **MAR ADENTRO** - Manuel Robles Guerrero | José Antonio Lorente Moya
 
 ---
