@@ -86,7 +86,7 @@ suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
 
-* Entrega de proyecto: **12 de junio de 2026**
+* Entrega de proyecto: **11 de junio de 2026**
 * Exposiciones: ** 22 de junio de 2026**
 
 #### :calendar: 22 de junio de 2026
