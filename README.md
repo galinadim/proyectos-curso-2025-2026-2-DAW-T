@@ -86,13 +86,13 @@ suficiente a su presentación.
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
 
-* Entrega de proyecto: **11 de junio de 2026**
-* Exposiciones: ** 12 de junio de 2026**
+* Entrega de proyecto: **12 de junio de 2026**
+* Exposiciones: ** 22 de junio de 2026**
 
-#### :calendar: 12 de junio de 2026
+#### :calendar: 22 de junio de 2026
 
-- [ ] 17:30h **Proyecto xx** -  María Ledesma Zotano
-- [ ] 18:20h **MAR ADENTRO** - Manuel Robles Guerrero | José Antonio Lorente Moya
+- [ ] 11:00h **Proyecto xx** -  María Ledesma Zotano
+- [ ] 11:20h **MAR ADENTRO** - Manuel Robles Guerrero | José Antonio Lorente Moya
 
 ---
 ## Guía para la presentación - apartados de la presentación
